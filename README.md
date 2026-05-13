@@ -19,7 +19,7 @@ future work would benefit from a transformer-based model such as RoBERTa.
 ## Visualisations
 
 ### Sentiment Arc Across Chapters
-![Sentiment Arc](sentiment_arc.png)
+![Sentiment Arc](chapter_sentiment_analysis.png)
 
 ### Character Mentions Across Chapters
 ![Character Mentions](character_mentions.png)
