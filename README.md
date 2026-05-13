@@ -16,6 +16,17 @@ around her like an oyster around a pearl.
 - TextBlob sentiment analysis suggested limitations with 19th century prose — 
 future work would benefit from a transformer-based model such as RoBERTa.
 
+## Visualisations
+
+### Sentiment Arc Across Chapters
+![Sentiment Arc](sentiment_arc.png)
+
+### Character Mentions Across Chapters
+![Character Mentions](character_mentions.png)
+
+### Words Associated with Hester vs Dimmesdale
+![Collocate Analysis](collocate_analysis.png)
+
 ## Techniques Used
 - Sentiment Analysis (TextBlob)
 - Collocate Analysis
