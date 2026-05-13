@@ -3,6 +3,9 @@
 ## Overview
 NLP analysis of The Scarlet Letter exploring how Hawthorne writes male 
 and female characters differently using sentiment analysis and collocate analysis.
+Findings suggest that female characters are associated with emotion, motherhood and shame,
+whereas male characters are associated with status and authority reflecitng gender archetypes of
+19th century Puritan socity.
 
 ## Key Findings
 - Hester is consistently surrounded by words of emotion, motherhood and shame, 
